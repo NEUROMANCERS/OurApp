@@ -1,0 +1,1 @@
+navigation drawer is completed just complete the layouts and copy the code into the fragment,s xml
