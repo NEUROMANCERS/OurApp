@@ -1,0 +1,13 @@
+I have put the project package in the repo...
+You just have to create the layout file as per the following specification and create the layout....
+Name the Introduction layout as "About Us".
+         Contact details as "Contact Us"
+         Upcoming project layout as "Upcoming Projects"
+         Projects as "Projects"
+As of now we will not include any News and Blog until they are created.....
+
+
+
+I am keeping the project files..Add your layout name in the strings array which corresponds to the navigation slider and also create the layout 
+and onclick activity for it...
+         
